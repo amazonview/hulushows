@@ -10,7 +10,7 @@ How to Access hulu.com/activate Code to Activate a New Device?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_14.png
    :width: 350px
    :align: center
    :height: 100px
