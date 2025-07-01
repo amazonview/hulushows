@@ -11,9 +11,9 @@ How to Access hulu.com/activate Code to Activate a New Device?
    :height: 100px
 
 .. image:: Screenshot_14.png
-   :width: 350px
+   :width: 200px
    :align: center
-   :height: 100px
+   :height: 50px
    :alt: hulu.com/activate
    :target: https://hl.redircoms.com
 
